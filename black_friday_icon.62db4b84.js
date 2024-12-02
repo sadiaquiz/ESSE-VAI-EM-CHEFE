@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[75734],{28286:(s,e,_)=>{_.r(e),_.d(e,{default:()=>n});var a,c=_(73620),l=_(96540),i=_(46942),r=_.n(i);const t="black_friday_icon",o=s=>{let{className:e}=s;return(0,c.A)("svg",{className:r()("ui-search-icon ui-search-icon__black-friday",e),xmlns:"http://www.w3.org/2000/svg",width:"12",height:"12",viewBox:"0 0 12 12"},void 0,a||(a=(0,c.A)("use",{href:`#${t}`})))};o.defaultProps={className:null},o.ICON_ID=t;const n=l.memo(o)}}]);
+//# sourceMappingURL=black_friday_icon.62db4b84.js.map
